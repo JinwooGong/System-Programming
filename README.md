@@ -11,6 +11,7 @@
 
 ### 프로젝트 개발 결과물 소개 (다이어그램)
 <div>
+  
   1. Server는 클라이언트가 접속할때 까지 대기
   
   <img width="399" alt="스크린샷 2020-12-09 오전 9 07 32" src="https://user-images.githubusercontent.com/56913260/101556434-2f1f7800-39fe-11eb-9abf-ae0826575ce2.png">
